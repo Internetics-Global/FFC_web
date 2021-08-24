@@ -32,7 +32,7 @@ class Database extends Config
 	 */
 	public $default = [
 		'DSN'      => '',
-		'hostname' => 'internetics.net.au',
+		'hostname' => 'database',
 		'username' => 'interne1_ffcweb',
 		'password' => 'Y^PUcyKV7+ty',
 		'database' => 'interne1_ffcweb',
